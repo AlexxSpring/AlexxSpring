@@ -242,9 +242,21 @@ Ultimately, I want to build **intelligent software that solves real problems**.
 # 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-snake.svg"
+      alt="GitHub Contribution Snake Animation"
+    />
+  </picture>
 </p>
-
 ---
 
 # 🌌 Beyond Code

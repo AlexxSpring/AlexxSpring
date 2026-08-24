@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Your Name 👋</h1>
+<h1 align="center">Hi there, I'm Alex Vyas 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EE6A8&center=true&vCenter=true&width=600&lines=CSE+(AI%2FML)+Student;Breaking+things+to+understand+them;Currently+exploring+Cybersecurity+%26+ML;Always+shipping+something" alt="Typing SVG" />
@@ -13,13 +13,12 @@
 
 ### 🧭 About Me
 
-- 🎓 I'm a **2nd-year Engineering student** — CSE (AI & ML)
-- 🔐 Diving into **Cybersecurity**: Kali Linux, VirtualBox lab setups, CTFs on TryHackMe / HackTheBox / PicoCTF
+- 🎓 I'm a **3rd-year Engineering student** — CSE (AI & ML)
 - 🤖 Learning **AI/ML** fundamentals alongside my coursework
-- 🧩 Practicing **DSA in Java** — grinding LeetCode for placements
-- 🌱 Currently building: *[name your solid project]*
-- 💬 Ask me about: Linux internals, penetration testing basics, or anything DSA
-- 📫 Reach me: your.email@example.com | [LinkedIn](https://linkedin.com/in/your-handle)
+- 🧩 Practicing **DSA in Java** — grinding LeetCode for placements (or am I?)
+- 🌱 Currently building: *[Something]*
+- 💬 Ask me about: Mathematics, Physics and anything
+- 📫 Reach me: uni.alx123@gmail.com | [LinkedIn](https://www.linkedin.com/in/alex-vyas-587437327/)
 - ⚡ Fun fact: *[add something personal/quirky here]*
 
 ---
@@ -34,11 +33,10 @@
 <summary>🔎 Breakdown by category</summary>
 <br>
 
-**Languages:** Java · Python · C++ · C  
-**Cybersecurity Tools:** Kali Linux · Nmap · Metasploit · Wireshark · Burp Suite  
-**ML/AI:** NumPy · Pandas · scikit-learn · TensorFlow *(edit as accurate)*  
-**Platforms:** TryHackMe · HackTheBox · PortSwigger Web Academy · PicoCTF · LeetCode  
-**Tools:** Git & GitHub · VS Code · VirtualBox/VMware · Linux CLI
+**Languages:** Java · Python · C  
+**ML/AI:** NumPy · Pandas · scikit-learn · TensorFlow 
+**Platforms:** LeetCode · HackerRank · CodeFores · Huggingface 
+**Tools:** Git & GitHub · VS Code · VirtualBox/VMware · Linux CLI, Kali-linux  
 
 </details>
 
@@ -76,25 +74,11 @@
 
 ---
 
-### 🏆 CTF / Lab Log *(optional but a strong differentiator)*
-
-| Platform | Status | Notes |
-|---|---|---|
-| TryHackMe | 🟢 In Progress | *[rooms completed / rank]* |
-| HackTheBox | ⚪ Starting | *[first machine attempted]* |
-| PicoCTF | 🟢 In Progress | *[challenges solved]* |
-
-> Link individual writeups here as you publish them, e.g. `[SQLi walkthrough →](link)`
-
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-handle" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/alex-vyas-587437327/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="uni.alx123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <p align="center">
   <i>⭐ "Building, breaking, and learning — one repo at a time."</i>

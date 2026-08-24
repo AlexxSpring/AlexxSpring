@@ -1,85 +1,294 @@
-<h1 align="center">Hi there, I'm Alex Vyas 👋</h1>
+# 👋 Hey, I'm Alex Vyas
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EE6A8&center=true&vCenter=true&width=600&lines=CSE+(AI%2FML)+Student;Breaking+things+to+understand+them;Currently+exploring+Cybersecurity+%26+ML;Always+shipping+something" alt="Typing SVG" />
-</p>
+### `B.Tech CSE (AI/ML) • AI/ML Engineer in the making • Builder • Curious`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2EE6A8&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="followers" />
-</p>
+I'm a Computer Science student specializing in **Artificial Intelligence & Machine Learning**, exploring the intersection of **AI, software engineering, computer vision, data, and intelligent systems**.
 
----
+I like understanding things from the fundamentals, building things myself, breaking them, and then figuring out how to make them better.
 
-### 🧭 About Me
-
-- 🎓 I'm a **3rd-year Engineering student** — CSE (AI & ML)
-- 🤖 Learning **AI/ML** fundamentals alongside my coursework
-- 🧩 Practicing **DSA in Java** — grinding LeetCode for placements (or am I?)
-- 🌱 Currently building: *[Something]*
-- 💬 Ask me about: Mathematics, Physics and anything
-- 📫 Reach me: uni.alx123@gmail.com | [LinkedIn](https://www.linkedin.com/in/alex-vyas-587437327/)
-- ⚡ Fun fact: *[add something personal/quirky here]*
+> **Something**
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 What I'm Working With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,linux,git,github,vscode,mysql,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nextjs,tailwind,nodejs,fastapi,django,git,github,linux,docker&perline=8" />
 </p>
 
-<details>
-<summary>🔎 Breakdown by category</summary>
-<br>
+### 🤖 AI / Machine Learning
 
-**Languages:** Java · Python · C  
-**ML/AI:** NumPy · Pandas · scikit-learn · TensorFlow 
-**Platforms:** LeetCode · HackerRank · CodeFores · Huggingface 
-**Tools:** Git & GitHub · VS Code · VirtualBox/VMware · Linux CLI, Kali-linux  
+* Python
+* NumPy • Pandas • Scikit-learn
+* XGBoost • Random Forest
+* Neural Networks & Deep Learning
+* CNNs & Computer Vision
+* NLP & Generative AI
+* LLMs & AI Agents
+* Feature Engineering & Model Evaluation
+* ML Deployment
 
-</details>
+### 💻 Development
+
+* React / Next.js
+* TypeScript / JavaScript
+* Tailwind CSS
+* FastAPI / Django
+* REST APIs
+* Supabase
+* Git & GitHub
+
+### 🔭 Currently Exploring
+
+* 🤖 Agentic AI
+* 👁️ Computer Vision
+* 🧠 Deep Learning
+* ⚡ Generative AI
+* 🔐 AI × Cybersecurity
+* 🌎 Geospatial & Scientific ML
+* 🏗️ Production-ready ML systems
 
 ---
 
-### 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/your-username/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-one&theme=radical" />
-  </a>
-  <a href="https://github.com/your-username/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-two&theme=radical" />
-  </a>
-</p>
+## 🌍 Earthquake Aftershock Probability Modeling
 
-> 💡 Pin your best repos on your GitHub profile settings, and the cards above will auto-render them.
+An ML system designed to estimate the **probability of an aftershock occurring within 15 days of a significant earthquake** using USGS earthquake data.
 
----
+### Highlights
 
-### 📊 GitHub Stats
+* 🌎 USGS earthquake catalog — 2000–2025
+* 📊 Physics-informed feature engineering
+* 📐 Gutenberg–Richter **b-value**
+* ⚡ Earthquake energy estimation
+* 📍 Spatial & temporal features
+* 🌐 Background seismic activity
+* 📏 Haversine distance calculations
+* 🤖 XGBoost classification
+* 📈 Model evaluation & probability prediction
+* 🗺️ Streamlit visualization
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexxSpring&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxSpring&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true" />
-</p>
+> A project combining **machine learning with physical reasoning**, rather than treating the dataset as a black box.
 
 ---
 
-### 🤝 Let's Connect
+## 🛒 VisionCart — AI Computer Vision
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alex-vyas-587437327/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="uni.alx123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+An AI-powered computer vision system focused on **real-time multi-product recognition** and intelligent shopping experiences.
+
+### Exploring
+
+* Object detection
+* Product recognition
+* Real-time inference
+* Computer vision pipelines
+* AI-powered retail interfaces
+
+---
+
+## 🤟 Sign Language Recognition
+
+A computer vision project focused on **real-time sign language recognition**.
+
+### Exploring
+
+* Hand detection
+* Landmark extraction
+* Gesture classification
+* Real-time camera inference
+* Human-computer interaction
+
+---
+
+## 📖 Journal — Digital Diary
+
+A full-stack digital journaling application designed around the idea of making digital journaling feel **personal and intentional**.
+
+### Tech Stack
+
+`Next.js 14` • `TypeScript` • `Supabase` • `TipTap` • `Tailwind CSS` • `Framer Motion`
+
+### Features
+
+* 🔐 Authentication
+* 📚 Multiple journals / bookshelf interface
+* ✍️ Rich-text editor
+* 💾 Auto-save
+* 🔎 Search
+* 🌅 Morning / Evening themes
+* 🎨 Design token system
+* 🎞️ Motion & interaction system
+* 📱 Responsive UI
+
+---
+
+## 🤖 Agentic AI Experiments
+
+I'm increasingly exploring **AI agents and autonomous systems** — moving beyond simple chatbot applications toward systems that can:
+
+* Reason about tasks
+* Use tools
+* Work with codebases
+* Interact with APIs
+* Execute multi-step workflows
+* Assist with software development
+* Automate repetitive work
+
+---
+
+# 🔬 Areas I'm Interested In
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │
+        ├── Deep Learning
+        │       └── Computer Vision
+        │
+        ├── Generative AI
+        │       └── LLMs
+        │
+        ├── Agentic AI
+        │
+        └── Intelligent Systems
+```
+
+I'm especially interested in projects where:
+
+`AI × Science`
+
+`AI × Computer Vision`
+
+`AI × Cybersecurity`
+
+`AI × Geospatial Data`
+
+`AI × Automation`
+
+`AI × Software Engineering`
+
+---
+
+# 🛠️ How I Like to Build
+
+```text
+Understand
+    ↓
+Research
+    ↓
+Build
+    ↓
+Test
+    ↓
+Break
+    ↓
+Optimize
+    ↓
+Deploy
+```
+
+I enjoy going deeper than simply getting something to work.
+
+I'm particularly interested in:
+
+* Understanding the mathematics behind ML
+* Writing efficient algorithms
+* Building systems instead of isolated notebooks
+* Turning prototypes into usable applications
+* Understanding why a model behaves the way it does
+* Designing clean and intuitive interfaces
+* Learning technologies by actually building with them
+
+---
+
+# 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Agentic AI
+* Full-stack development
+* System Design
+* Cloud & Deployment
+* Cybersecurity
+
+---
+
+# 🎯 Long-Term Goal
+
+I want to become an engineer who can take an idea from:
+
+**Problem → Research → Architecture → Code → Model → Product → Deployment**
+
+rather than being limited to one part of the stack.
+
+Ultimately, I want to build **intelligent software that solves real problems**.
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <i>⭐ "Building, breaking, and learning — one repo at a time."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🐍 Watch My Contributions Get Eaten
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
+# 🌌 Beyond Code
+
+When I'm not coding, you'll probably find me exploring:
+
+♟️ **Chess**
+⚽ **Football**
+🌌 **Astronomy & Physics**
+📐 **Mathematics**
+🎵 **Music**
+
+I keep jumping between seemingly unrelated fields.
+
+---
+
+# 🤝 Connect With Me
+
+I'm always interested in talking about:
+
+**AI • ML • Computer Vision • Agentic AI • Software Engineering • Science • Technology • Interesting Projects**
+
+<p align="center">
+
+<a href="mailto:uni.alx123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/alex-vyas-587437327/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/AlexxSpring">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>“The best way to understand something is to build it.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting here, feel free to explore my repositories.
 </p>

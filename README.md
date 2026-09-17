@@ -4,163 +4,124 @@
 
 B.Tech CSE (AI/ML)
 
-AI/ML • Computer Vision • Generative AI • Agentic Systems • Full-Stack
+AI/ML · Computer Vision · Generative AI · Agentic Systems · Full-Stack
+
+<br>
 
 I like turning ideas into things that actually work.
 
 <br>
 
 <a href="https://github.com/AlexxSpring">
-  <img src="https://img.shields.io/badge/GitHub-AlexxSpring-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-AlexxSpring-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="mailto:uni.alx123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 <a href="https://www.linkedin.com/in/alex-vyas-587437327/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-</div>
+<br><br>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AlexxSpring&style=flat-square&color=blue" alt="Profile views">
+
+</div>
 
 🧠 About Me
 
-I'm a Computer Science student specializing in AI/ML, interested in building intelligent systems that combine machine learning, software engineering, and real-world data.
+I'm a Computer Science student specializing in Artificial Intelligence & Machine Learning, interested in building intelligent systems that combine machine learning, software engineering, and real-world data.
 
 I enjoy going beyond tutorials — understanding the fundamentals, building from scratch, experimenting, optimizing, and eventually deploying the result.
 
-Currently exploring
-
+Currently exploring:
 Deep Learning · Computer Vision · Generative AI · AI Agents · Cybersecurity · Scientific ML
-
-</div>
-
-<div align="center">
 
 ⚙️ Tech Stack
 
+<div align="center">
+
 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&perline=5" alt="Languages">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&perline=5" alt="Programming Languages">
+
+<br><br>
 
 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" alt="AI/ML">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" alt="AI and Machine Learning">
 
 <br>
 
-NumPy · Pandas · XGBoost · OpenCV · LLMs · Computer Vision
+NumPy · Pandas · XGBoost · OpenCV · LLMs
+
+<br><br>
 
 Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,django,supabase&perline=7" alt="Development">
 
+<br><br>
+
 Tools & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&perline=5" alt="Tools">
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&perline=5" alt="Tools and Infrastructure">
 
 </div>
-
-<div align="center">
 
 🚀 Featured Projects
 
-</div>
+🌍 Earthquake Aftershock Probability Modeling
 
-<details>
-<summary><b>🌍 Earthquake Aftershock Probability Modeling</b></summary>
+An ML system designed to estimate the probability of an aftershock occurring within 15 days of a significant earthquake.
 
-<br>
+Stack: Python · XGBoost · Scikit-learn · Pandas · Streamlit
 
-An ML system that estimates the probability of an aftershock occurring within 15 days of a significant earthquake.
+Highlights
 
-Built with: Python XGBoost Scikit-learn Pandas Streamlit
+🌎 USGS earthquake catalog — 2000–2025
 
-Key features
+📊 Physics-informed feature engineering
 
-USGS earthquake catalog — 2000–2025
+📐 Gutenberg–Richter b-value
 
-Physics-informed feature engineering
+⚡ Earthquake energy estimation
 
-Gutenberg–Richter b-value
+📍 Spatial & temporal relationships
 
-Earthquake energy estimation
+📏 Haversine distance calculations
 
-Spatial & temporal relationships
+🌐 Background seismic activity
 
-Haversine distance calculations
+📈 Probability-based prediction
 
-Background seismic activity
+🗺️ Interactive geographic visualization
 
-Probability-based prediction
+Idea: combine machine learning with physical reasoning instead of treating seismic data as a black box.
 
-Interactive geographic visualization
+🛒 VisionCart — Computer Vision
 
-Combining machine learning with physical reasoning, rather than treating seismic data as a black box.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🛒 VisionCart — Computer Vision</b></summary>
-
-<br>
-
-An AI-powered computer vision concept for real-time multi-product recognition and intelligent shopping experiences.
+An AI-powered computer vision concept focused on real-time multi-product recognition and intelligent shopping experiences.
 
 Focus: Computer Vision · Object Detection · Real-Time AI
 
-</details>
-
-<br>
-
-<details>
-<summary><b>🤟 Sign Language Recognition</b></summary>
-
-<br>
+🤟 Sign Language Recognition
 
 A computer vision project exploring real-time sign language recognition through hand detection, landmark extraction, and gesture classification.
 
 Focus: Computer Vision · Gesture Recognition · Human-Computer Interaction
 
-</details>
-
-<br>
-
-<details>
-<summary><b>📖 Journal — Digital Diary</b></summary>
-
-<br>
+📖 Journal — Digital Diary
 
 A full-stack digital journaling application designed to make digital journaling feel personal and intentional.
 
 Stack: Next.js · TypeScript · Supabase · TipTap · Tailwind CSS · Framer Motion
 
-Features
-
-Authentication
-
-Rich-text editing
-
-Auto-save
-
-Search
-
-Themes
-
-Animations
-
-Bookshelf-style journal experience
-
-</details>
-
-<div align="center">
+Features: Authentication · Rich-text editing · Auto-save · Search · Themes · Animations
 
 🔬 Areas of Interest
 
-<br>
+<div align="center">
 
 Artificial Intelligence
 
@@ -176,45 +137,29 @@ Computer Vision · Generative AI · LLMs
 
 Agentic AI · Intelligent Systems
 
-<br><br>
-
-AI × Science   •  
-AI × Computer Vision   •  
-AI × Cybersecurity
-
 <br>
 
-AI × Geospatial Data   •  
-AI × Automation   •  
-AI × Software Engineering
+AI × Science · AI × Computer Vision · AI × Cybersecurity
+
+AI × Geospatial Data · AI × Automation · AI × Software Engineering
 
 </div>
-
-<div align="center">
 
 🛠️ How I Build
 
-        UNDERSTAND
-             ↓
-          RESEARCH
-             ↓
-           BUILD
-             ↓
-            TEST
-             ↓
-           BREAK
-             ↓
-          OPTIMIZE
-             ↓
-          DEPLOY
+<div align="center">
 
-I care about why something works, not just whether it works.
+UNDERSTAND → RESEARCH → BUILD → TEST → BREAK → OPTIMIZE → DEPLOY
+
+<br><br>
+
+I care about why something works — not just whether it works.
 
 </div>
 
-<div align="center">
-
 📚 Currently Learning
+
+<div align="center">
 
 Data Structures & Algorithms · Machine Learning · Deep Learning
 
@@ -224,15 +169,13 @@ System Design · Cloud & Deployment · Cybersecurity
 
 </div>
 
+📊 GitHub Activity
+
 <div align="center">
 
-📊 GitHub Stats
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexxSpring&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Alex Vyas GitHub Stats">
 
-<br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlexxSpring&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Alex Vyas GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxSpring&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxSpring&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages">
 
 <br><br>
 
@@ -240,11 +183,9 @@ System Design · Cloud & Deployment · Cybersecurity
 
 </div>
 
-<div align="center">
-
 🐍 Contribution Activity
 
-<br>
+<div align="center">
 
 <picture>
   <source
@@ -260,14 +201,14 @@ System Design · Cloud & Deployment · Cybersecurity
 
 </div>
 
-<div align="center">
-
 🌌 Beyond Code
 
-♟️ Chess   •  
-⚽ Football   •  
-🌌 Astronomy   •  
-📐 Mathematics   •  
+<div align="center">
+
+♟️ Chess   ·  
+⚽ Football   ·  
+🌌 Astronomy   ·  
+📐 Mathematics   ·  
 🎵 Music
 
 <br><br>
@@ -276,22 +217,24 @@ Curious about science, technology, and almost anything that makes me ask "why?"
 
 </div>
 
+🤝 Let's Connect
+
 <div align="center">
 
-🤝 Let's Connect
+I'm always open to conversations about AI, ML, Computer Vision, Agentic AI, Software Engineering, Science, and interesting projects.
 
 <br>
 
 <a href="mailto:uni.alx123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-uni.alx123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-uni.alx123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/alex-vyas-587437327/">
-  <img src="https://img.shields.io/badge/LinkedIn-Alex_Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Alex_Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/AlexxSpring">
-  <img src="https://img.shields.io/badge/GitHub-AlexxSpring-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-AlexxSpring-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>

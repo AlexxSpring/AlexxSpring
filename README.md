@@ -1,283 +1,123 @@
-<div align="center">
+<h1 align="center">Hi there 👋 I'm Alex Vyas</h1>
 
-# 👋 Hey, I'm Alex Vyas
+<p align="center">
+  <a href="https://github.com/AlexxSpring"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AlexxSpring&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" />
+</p>
 
-### B.Tech CSE (AI/ML)
-
-**AI/ML · Computer Vision · Generative AI · Agentic Systems · Full-Stack**
-
-*I like turning ideas into things that actually work.*
-
-<br>
-
-<a href="https://github.com/AlexxSpring">
-<img src="https://img.shields.io/badge/GitHub-AlexxSpring-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;
-<a href="mailto:uni.alx123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/alex-vyas-587437327/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=AlexxSpring&style=flat-square" alt="Profile Views">
-
-</div>
+<p align="center">
+  <a href="https://github.com/AlexxSpring"><img src="https://img.shields.io/badge/GitHub-Follow-333?style=flat-square&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/alex-vyas-587437327/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Alexorithm/"><img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:uni.alx123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 About Me
+### 📌 About Me
 
-I'm a **Computer Science student specializing in Artificial Intelligence & Machine Learning**, interested in building intelligent systems that combine **machine learning, software engineering, and real-world data**.
+```yaml
+Name:          Alex Vyas
+Role:          B.Tech CSE (AI & ML) @ GLA University
+Location:      Agra, Uttar Pradesh, India
+Current Focus: Cybersecurity, Machine Learning, DSA for placements
+```
 
-I enjoy going beyond tutorials — understanding the fundamentals, building from scratch, experimenting, optimizing, and eventually **deploying the result**.
+I'm a 2nd-year CSE (AI/ML) student building at the intersection of **security tooling** and **applied ML** — hands-on with Linux internals, penetration-testing labs, and agentic LLM pipelines.
 
-### Currently Exploring
+I'm especially interested in **offensive security fundamentals**, **secure system design**, and **ML-driven automation**, and I'm currently grinding DSA in Java to be interview-ready for placements.
 
-`Deep Learning` · `Computer Vision` · `Generative AI` · `AI Agents` · `Cybersecurity` · `Scientific ML`
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&perline=5" alt="Languages">
-
-<br><br>
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" alt="AI ML">
-
-<br>
-
-`NumPy` · `Pandas` · `XGBoost` · `OpenCV` · `LLMs`
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,django,supabase&perline=7" alt="Development">
-
-<br><br>
-
-### Tools & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&perline=5" alt="Tools">
-
-</div>
+Currently sharpening fundamentals and looking for my next build.
 
 ---
 
-## 🚀 Featured Projects
+### ⚡ Tech Stack & Skills
 
-### 🌍 Earthquake Aftershock Probability Modeling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,github,vscode,mysql" />
+</p>
 
-An ML system designed to estimate the **probability of an aftershock occurring within 15 days of a significant earthquake**.
-
-**Stack:** `Python` · `XGBoost` · `Scikit-learn` · `Pandas` · `Streamlit`
-
-**Highlights**
-
-- 🌎 USGS earthquake catalog — 2000–2025
-- 📊 Physics-informed feature engineering
-- 📐 Gutenberg–Richter **b-value**
-- ⚡ Earthquake energy estimation
-- 📍 Spatial & temporal relationships
-- 📏 Haversine distance calculations
-- 🌐 Background seismic activity
-- 📈 Probability-based prediction
-- 🗺️ Interactive geographic visualization
-
-> Combining **machine learning with physical reasoning**, rather than treating seismic data as a black box.
+**Security:** Kali Linux · Nmap · Metasploit · Wireshark · Burp Suite
+**Languages:** Python · Java · C++ · C
+**ML/AI:** scikit-learn, XGBoost, Pandas, NumPy
+**Platforms:** TryHackMe · HackTheBox · PortSwigger Web Academy · PicoCTF · LeetCode
+**Tools:** Git & GitHub · VS Code · VirtualBox/VMware
 
 ---
 
-### 🛒 VisionCart — Computer Vision
-
-An AI-powered computer vision project focused on **real-time multi-product recognition** and intelligent shopping experiences.
-
-**Focus:** `Computer Vision` · `Object Detection` · `Real-Time AI`
-
----
-
-### 🤟 Sign Language Recognition
-
-A computer vision project exploring **real-time sign language recognition** through hand detection, landmark extraction, and gesture classification.
-
-**Focus:** `Computer Vision` · `Gesture Recognition` · `Human-Computer Interaction`
-
----
-
-### 📖 Journal — Digital Diary
-
-A full-stack digital journaling application designed to make digital journaling feel **personal and intentional**.
-
-**Stack:** `Next.js` · `TypeScript` · `Supabase` · `TipTap` · `Tailwind CSS` · `Framer Motion`
-
-**Features:** Authentication · Rich-text editing · Auto-save · Search · Themes · Animations
-
----
-
-## 🔬 Areas of Interest
-
-<div align="center">
-
-**Artificial Intelligence**
-
-↓  
-
-**Machine Learning · Deep Learning**
-
-↓
-
-**Computer Vision · Generative AI · LLMs**
-
-↓
-
-**Agentic AI · Intelligent Systems**
-
-<br><br>
-
-`AI × Science` · `AI × Computer Vision` · `AI × Cybersecurity`
-
-`AI × Geospatial Data` · `AI × Automation` · `AI × Software Engineering`
-
-</div>
-
----
-
-## 🛠️ How I Build
-
-<div align="center">
-
-**UNDERSTAND** → **RESEARCH** → **BUILD** → **TEST** → **BREAK** → **OPTIMIZE** → **DEPLOY**
-
-<br><br>
-
-*I care about why something works — not just whether it works.*
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-`Data Structures & Algorithms` · `Machine Learning` · `Deep Learning`
-
-`Computer Vision` · `Generative AI` · `Agentic AI`
-
-`System Design` · `Cloud & Deployment` · `Cybersecurity`
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexxSpring&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub Stats">
-
-&nbsp;&nbsp;
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxSpring&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AlexxSpring&theme=transparent&hide_border=true" alt="GitHub Streak">
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
+### 🔥 Contribution Snake
 
 <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-snake.svg">
-
-<img
-src="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-snake.svg"
-alt="GitHub Contribution Snake">
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
+> ⚠️ Needs a GitHub Action in your profile repo to generate this (see note at the end).
 
 ---
 
-## 🌌 Beyond Code
+### 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexxSpring&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexxSpring&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-♟️ **Chess** &nbsp; · &nbsp;
-⚽ **Football** &nbsp; · &nbsp;
-🌌 **Astronomy** &nbsp; · &nbsp;
-📐 **Mathematics** &nbsp; · &nbsp;
-🎵 **Music**
-
-<br><br>
-
-*Curious about science, technology, and almost anything that makes me ask "why?"*
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexxSpring&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+### 🚀 Featured Projects
 
-<div align="center">
+#### 🛡️ [Lightbringer X (LBX)](https://github.com/AlexxSpring/lightbringer-x)
+Security tooling product built around an **agentic LLM pipeline** — planner/executor, parallel fan-out, and generator-critic loop patterns, powered by the Anthropic SDK. Includes live simulation modules for supply-chain attack scenarios and generative exploit synthesis, with full `DEMO`/`LIVE` mode switching and real-vs-mock implementation notes for production hardening.
+`Python` `Anthropic SDK` `Agent Architecture` `Security Simulation`
 
-I'm always open to conversations about **AI, ML, Computer Vision, Agentic AI, Software Engineering, Science, and interesting projects.**
+#### 🌍 [Earthquake-ML](https://github.com/AlexxSpring/Earthquake-ML)
+Earthquake Aftershock Probability Predictor — a physics-informed machine learning web app combining statistical seismology (Gutenberg-Richter Law, Omori's Law) with an XGBoost classifier to predict aftershock probability within 15 days of a major earthquake (M≥6.0).
+`Python` `XGBoost` `Physics-Informed ML` `Seismology`
 
-<br><br>
+#### 🧮 [DSA-in-Java](https://github.com/AlexxSpring/dsa-in-java)
+Structured, interview-focused DSA practice repo — organized by pattern (two-pointers, sliding window, recursion, DP, graphs) rather than topic, with a documented identification-and-complexity breakdown for every problem solved.
+`Java` `Algorithms` `Interview Prep`
 
-<a href="mailto:uni.alx123@gmail.com">
-<img src="https://img.shields.io/badge/Email-uni.alx123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/alex-vyas-587437327/">
-<img src="https://img.shields.io/badge/LinkedIn-Alex_Vyas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/AlexxSpring">
-<img src="https://img.shields.io/badge/GitHub-AlexxSpring-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
+#### *[Your 4th scattered repo — add here]*
+One line on what it does and what you learned building it.
 
 ---
 
-<div align="center">
+### 🌱 Currently Exploring
 
-### `Problem → Idea → Code → Model → Product`
+- Agentic LLM pipelines & secure system design
+- Offensive security fundamentals (Kali, lab environments via VirtualBox)
+- Data Structures & Algorithms for technical interviews
+- Open source contribution
 
-*Keep building. Keep questioning. Keep learning.*
+---
 
-<br>
+### 🤝 Let's Connect
 
-⭐ **Thanks for stopping by.**
+<p align="left">
+  <a href="https://github.com/AlexxSpring"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/alex-vyas-587437327/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Alexorithm/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:uni.alx123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-</div>
+<p align="center"><i>"Breaking things to understand them, building things that hold up."</i></p>
+
+<p align="center">⭐ Always open to collaborating on security tooling, ML, and hackathon-ready projects.</p>
+
+---
+
+<details>
+<summary>⚙️ Setup notes (for you, not visitors)</summary>
+
+- Profile views counter, skill icons, and stats cards work automatically — no setup needed.
+- Contribution snake animation needs a GitHub Action: use [Platane/snk](https://github.com/Platane/snk) — add the workflow to this same repo and it'll generate the SVGs it references above.
+- Create this as a repo named exactly `AlexxSpring/AlexxSpring` with this file as `README.md` for it to render on your profile.
+- Swap the Lightbringer X / Earthquake-ML / DSA-in-Java links for your actual repo URLs if they differ, and fill in your 4th repo.
+
+</details>

@@ -19,13 +19,12 @@
 ```yaml
 Name:          Alex Vyas
 Role:          B.Tech CSE (AI & ML) @ GLA University
-Location:      Agra, Uttar Pradesh, India
-Current Focus: Cybersecurity, Machine Learning, DSA for placements
+Location:      India
+Current Focus: Artificial Intelligence, Machine Learning, Neural Networks,  DSA 
 ```
 
-I'm a 2nd-year CSE (AI/ML) student building at the intersection of **security tooling** and **applied ML** — hands-on with Linux internals, penetration-testing labs, and agentic LLM pipelines.
-
-I'm especially interested in **offensive security fundamentals**, **secure system design**, and **ML-driven automation**, and I'm currently grinding DSA in Java to be interview-ready for placements.
+I'm a 3rd-year CSE (AI/ML) student. I build end-to-end ML systems — from EDA and feature engineering to model deployment — with a focus on explainability, real-world data problems, and shipping things that actually work.
+I'm especially interested in **offensive security fundamentals**, **secure system design**, and **ML-driven automation**, **GEN-AI powered Automation**.
 
 Currently sharpening fundamentals and looking for my next build.
 
@@ -37,11 +36,10 @@ Currently sharpening fundamentals and looking for my next build.
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,github,vscode,mysql" />
 </p>
 
-**Security:** Kali Linux · Nmap · Metasploit · Wireshark · Burp Suite
-**Languages:** Python · Java · C++ · C
-**ML/AI:** scikit-learn, XGBoost, Pandas, NumPy
-**Platforms:** TryHackMe · HackTheBox · PortSwigger Web Academy · PicoCTF · LeetCode
-**Tools:** Git & GitHub · VS Code · VirtualBox/VMware
+**Languages:** Python · Java · C
+**ML/AI:** scikit-learn, XGBoost, Pandas, NumPy, Tensorflow
+**Platforms:** Leetcode · Hackerrank · Codeforces 
+**Tools:** Git & GitHub · VS Code · VirtualBox/VMware · Kali-Linux · AzureAi
 
 ---
 
@@ -51,8 +49,6 @@ Currently sharpening fundamentals and looking for my next build.
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-contribution-grid-snake-dark.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AlexxSpring/AlexxSpring/output/github-contribution-grid-snake.svg" />
 </picture>
-
-> ⚠️ Needs a GitHub Action in your profile repo to generate this (see note at the end).
 
 ---
 
@@ -73,26 +69,24 @@ Currently sharpening fundamentals and looking for my next build.
 
 #### 🛡️ [Lightbringer X (LBX)](https://github.com/AlexxSpring/lightbringer-x)
 Security tooling product built around an **agentic LLM pipeline** — planner/executor, parallel fan-out, and generator-critic loop patterns, powered by the Anthropic SDK. Includes live simulation modules for supply-chain attack scenarios and generative exploit synthesis, with full `DEMO`/`LIVE` mode switching and real-vs-mock implementation notes for production hardening.
+· Part of an Internship at ParasymSyndicate
 `Python` `Anthropic SDK` `Agent Architecture` `Security Simulation`
 
 #### 🌍 [Earthquake-ML](https://github.com/AlexxSpring/Earthquake-ML)
 Earthquake Aftershock Probability Predictor — a physics-informed machine learning web app combining statistical seismology (Gutenberg-Richter Law, Omori's Law) with an XGBoost classifier to predict aftershock probability within 15 days of a major earthquake (M≥6.0).
 `Python` `XGBoost` `Physics-Informed ML` `Seismology`
 
-#### 🧮 [DSA-in-Java](https://github.com/AlexxSpring/dsa-in-java)
-Structured, interview-focused DSA practice repo — organized by pattern (two-pointers, sliding window, recursion, DP, graphs) rather than topic, with a documented identification-and-complexity breakdown for every problem solved.
-`Java` `Algorithms` `Interview Prep`
 
-#### *[Your 4th scattered repo — add here]*
-One line on what it does and what you learned building it.
+#### *[My 3rd scattered repo — I will add it here]*
+ what it does and what I learned building it.
 
 ---
 
 ### 🌱 Currently Exploring
 
 - Agentic LLM pipelines & secure system design
-- Offensive security fundamentals (Kali, lab environments via VirtualBox)
 - Data Structures & Algorithms for technical interviews
+- Offensive security fundamentals (Kali, lab environments via VirtualBox)
 - Open source contribution
 
 ---
@@ -111,13 +105,3 @@ One line on what it does and what you learned building it.
 <p align="center">⭐ Always open to collaborating on security tooling, ML, and hackathon-ready projects.</p>
 
 ---
-
-<details>
-<summary>⚙️ Setup notes (for you, not visitors)</summary>
-
-- Profile views counter, skill icons, and stats cards work automatically — no setup needed.
-- Contribution snake animation needs a GitHub Action: use [Platane/snk](https://github.com/Platane/snk) — add the workflow to this same repo and it'll generate the SVGs it references above.
-- Create this as a repo named exactly `AlexxSpring/AlexxSpring` with this file as `README.md` for it to render on your profile.
-- Swap the Lightbringer X / Earthquake-ML / DSA-in-Java links for your actual repo URLs if they differ, and fill in your 4th repo.
-
-</details>

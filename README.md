@@ -33,7 +33,7 @@ Currently sharpening fundamentals and looking for my next build.
 ### ⚡ Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,linux,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,linux,git,github,vscode,mysql,docker,ubuntu" />
 </p>
 
 **Languages:** Python · Java · C
